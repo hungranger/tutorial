@@ -1,2 +1,2 @@
- Đến cả con khỉ cũng hiểu được lệnh Git kraken
  add: Đăng ký thay đổi trong index
+﻿ Đến cả con khỉ cũng hiểu được lệnh Git - edit in GitBash
