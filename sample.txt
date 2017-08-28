@@ -1,2 +1,3 @@
-﻿ add: Đăng ký thay đổi trong index
-﻿ Đến cả con khỉ cũng hiểu được lệnh Git - edit in GitBash 2nd conflict
+﻿﻿ Đến cả con khỉ cũng hiểu được lệnh Git - edit in GitBash 2nd conflict
+ Đến cả con khỉ cũng hiểu được lệnh Git - edit in GitBash
+ add: Đăng ký thay đổi trong index
